@@ -7,6 +7,12 @@ This Tableau project analyzes airline passenger reviews using two datasets:
 
     Country Dataset – Maps countries to their respective regions and continents to allow geographic-level analysis.
 
+
+🌐 View Dashboard Online
+
+👉 Click here to view the live dashboard on Tableau Public
+https://public.tableau.com/views/AirwayReviews_17470789231650/AirwayReviews?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Using these datasets, an interactive dashboard was developed in Tableau to explore and visualize average customer experience metrics across multiple dimensions.
 🗂️ Data Description
 1. ba_reviews.csv
